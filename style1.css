@@ -1,0 +1,19 @@
+. {
+    margin: 30;
+    padding: 30;
+    font-family: sans-serif;
+}
+
+body {
+    background: black;
+    color: white;
+    text-align: Left;
+    
+}
+
+.data {
+    width: 400px;
+    margin: auto;
+}
+
+

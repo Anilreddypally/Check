@@ -1,0 +1,4 @@
+Descendant Selector:
+How do we change the colors, if have multiple Div functions and Paragraphs?
+
+How do we link Sintax or selector in CSS to HTML?
